@@ -1,1 +1,1 @@
-Shell expansions and var.
+ script that prints hello user
